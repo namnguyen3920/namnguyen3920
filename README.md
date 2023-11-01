@@ -15,7 +15,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Game Designer` and `Game Developer`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://vietcv.io/cv_ngtrhoangnam).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://namnguyen3920.github.io).
 
 
 <br>
