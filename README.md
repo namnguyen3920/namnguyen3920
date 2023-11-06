@@ -56,7 +56,7 @@
 <div align="center">
   <a href="https://github.com/namnguyen3920/Flappy-Bird">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namnguyen3920&repo=Flappy-Bird&theme=catppuccin_latte" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namnguyen3920&repo=PixelBird&theme=catppuccin_latte" />
   </a>  
   <a href="https://github.com/namnguyen3920/2DPixelPlatformer">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
