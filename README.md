@@ -58,9 +58,9 @@
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namnguyen3920&repo=PixelBird&theme=catppuccin_latte" />
   </a>  
-  <a href="https://github.com/namnguyen3920/2DPixelPlatformer">
+  <a href="https://github.com/namnguyen3920/UP">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namnguyen3920&repo=2DPixelPlatformer&theme=catppuccin_latte" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namnguyen3920&repo=UP&theme=catppuccin_latte" />
   </a> 
 </div>
 
