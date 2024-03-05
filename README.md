@@ -54,13 +54,17 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width = 50px></picture> **Projects**
 <div align="center">
-  <a href="https://github.com/namnguyen3920/Flappy-Bird">
+  <a href="https://github.com/namnguyen3920/TheArranger">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namnguyen3920&repo=TheArranger&theme=catppuccin_latte" />
   </a>  
   <a href="https://github.com/namnguyen3920/UP">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namnguyen3920&repo=UP&theme=catppuccin_latte" />
+  </a>
+  <a href="https://github.com/namnguyen3920/PixelBird">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namnguyen3920&repo=PixelBird&theme=catppuccin_latte" />
   </a> 
 </div>
 
