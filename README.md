@@ -11,9 +11,9 @@
 
 <br><br>
 
-- :school: I am a student at [International University - HCMIU](https://it.hcmiu.edu.vn/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Game Designer` and `Game Developer`.
+- :school: I graduated at [International University - HCMIU](https://it.hcmiu.edu.vn/).
+- :technologist: I love making interested `Game`.
+- :student: I’m currently working and learning to become an Expert `Game Designer` and `Game Developer`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY PORTFOLIO](https://namnguyen3920.github.io).
 
