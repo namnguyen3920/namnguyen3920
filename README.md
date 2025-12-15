@@ -15,7 +15,7 @@
 - :technologist: I love making interested `Game`.
 - :student: I’m currently working and learning to become an Expert `Game Designer` and `Game Developer`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY PORTFOLIO](https://namnguyen3920.github.io).
+- :thinking: I’m currently open for a new remote position `job opportunity`, this is [MY PORTFOLIO](https://namnguyen3920.github.io).
 
 
 <br>
